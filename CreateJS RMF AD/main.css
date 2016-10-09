@@ -1,0 +1,67 @@
+/*======= DEFAULT CSS =======*/
+
+html, body, div, span, p, a, del, em, img, ol, ul, li, fieldset, form, label {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    vertical-align: baseline;
+}
+.container {
+    position: absolute;
+    overflow: hidden;
+    display: none;
+}
+.container,
+.clickScreen,
+.border {
+    width: 300px;
+    height: 250px;
+    box-sizing: border-box;
+}
+.container div,
+.container img {
+    position: absolute;
+} 
+.border {
+    border: 1px solid #ccc;
+}
+/* 
+======= CUSRTOM CSS =======
+*/
+.clickScreen, 
+#replayBtn, 
+#ctaContainer {
+    cursor: pointer;
+}
+#replayBtn {
+    top: 5px;
+    right: 5px;
+    width: 16px;
+    height: 16px;
+    background-image: url(assets/replayButton.svg);
+}
+#ctaContainer {
+    width: 116px;
+    height: 28px;
+    left: 15px;
+    top: 173px;
+    background: #f1f1f1;
+    box-sizing: border-box;
+    border-radius: 5px;
+    border: 1px solid #8c8c8c;
+    -webkit-transform-origin: 50% 50%;
+            transform-origin: 50% 50%;
+}
+#ctaCover {
+    width: 116px;
+    height: 28px;
+    left: 15px;
+    top: 173px;
+}
+ 
+/*======= Canvas Banner =======*/
+
+#bannerCanvas {
+    border: 1px solid #ccc;
+    position: absolute;
+}
