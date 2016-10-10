@@ -15,7 +15,7 @@
 * A RICH MEDIA ADD (BANNER) made with the canvas (no frameworks).
 
 ### Node Editing System ###
-* A funky node based, spline conected editing system. Great under the hood canvas rendering.
+A funky node based, spline conected editing system. Great under the hood canvas rendering.
 
 To use: 
 1. Make a shape in the builder.
