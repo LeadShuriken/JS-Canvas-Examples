@@ -17,7 +17,6 @@
 ### Node Editing System ###
 A funky node based, spline conected editing system. Great under the hood canvas rendering.
 
-To use: 
 1. Make a shape in the builder.
 2. Choose a node from the shape and add on the first shape.
 3. When ready add to scene.
