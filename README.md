@@ -1,8 +1,7 @@
 # JS Canvas Projects #
 
 ### Canvas FPS Mold ###
----
-An FPS Bootstrap for creating FPS games. Features:
+* An FPS Bootstrap for creating FPS games. Features:
 
 1. Canvas image processing (STAGE recognition for the Tanks).
 2. Canvas particle effects (Smoke, etc).
@@ -10,16 +9,13 @@ An FPS Bootstrap for creating FPS games. Features:
 4. Cooldowns.
 
 ### CreateJS RMF AD ###
----
-A RICH MEDIA ADD (BANNER) made with CreateJS (canvas).
+* A RICH MEDIA ADD (BANNER) made with CreateJS (canvas).
 
 ### Pure Canvas RMF AD ###
----
-A RICH MEDIA ADD (BANNER) made with the canvas (no frameworks).
+* A RICH MEDIA ADD (BANNER) made with the canvas (no frameworks).
 
 ### Node Editing System ###
----
-A funky node based, spline conected editing system. Great under the hood canvas rendering.
+* A funky node based, spline conected editing system. Great under the hood canvas rendering.
 
 To use: 
 1. Make a shape in the builder.
@@ -30,5 +26,4 @@ To use:
 Move arround and play.
 
 ###### Change log ######
----
-[releases] Added on 09-10-2016
+* [releases] Added on 09-10-2016
